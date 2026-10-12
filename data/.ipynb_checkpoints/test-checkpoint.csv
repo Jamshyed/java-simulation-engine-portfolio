@@ -1,0 +1,15 @@
+TICK,0
+RESOURCE,ORE,1000
+RESOURCE,METAL,1000
+RESOURCE,CREDITS,2000
+RESOURCE,WOOD,1000
+RESOURCE,WATER,1000
+RESOURCE,PEOPLE,1000
+RESOURCE,COAL,1000
+mine, Mine_1
+lake,Lake_1
+forest,Forest_1
+house,House_1
+furnace,Furnace_1
+refinery,Refinery_1
+spaceport,SpacePort_1,1
